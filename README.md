@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Valentinas</h1>
+<h1 align="center">Hey 👋, I'm Valentinas</h1>
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 <br />
 
-- 🔭 I’m currently studying in **Vilnius University**
+- 🔭 I’m currently studying **Information Technologies** in **Vilnius University**
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React and Typescript**
 
 - 📫 How to reach me **val.straigis@gmail.com**
 
