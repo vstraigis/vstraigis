@@ -24,4 +24,4 @@
 
 <a href="http://www.github.com/vstraigis"><img src="https://github-readme-stats.vercel.app/api?username=vstraigis&count_private=true&theme=bear&hide=issues,contribs" alt="Vstraigis GitHub stats" /></a> </br>
 
-<a href="http://www.github.com/vstraigis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vstraigis&theme=bear" /></a>
+<a href="http://www.github.com/vstraigis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vstraigis&theme=bear&count_private=true" /></a>
