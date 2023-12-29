@@ -9,7 +9,7 @@ As a dedicated full-stack web developer and IT specialist from Lithuania, I brin
 
 - 🔭 Pursuing a Bachelor’s degree in **Information Technologies** at **Vilnius University**
 
-- 🌱 Expanding my expertise in **React** and **TypeScript**
+- 🌱 Expanding my expertise in **Angular** and **TypeScript**
 
 - 💼 Full-time **Fullstack Application Developer at IBM**
 
