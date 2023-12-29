@@ -37,6 +37,7 @@ As a dedicated full-stack web developer and IT specialist from Lithuania, I brin
 
 <h3 align="left">My Github Stats:</h3>
 
-<!-- <a href="http://www.github.com/vstraigis"><img src="https://github-readme-stats.vercel.app/api?username=vstraigis&count_private=true&theme=bear&hide=issues,contribs" alt="Vstraigis GitHub stats" /></a> </br> -->
 
-<a href="http://www.github.com/vstraigis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vstraigis&theme=bear&count_private=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vstraigis&theme=bear&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+<br />
+![vstraigis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vstraigis&theme=bear&show_icons=true&hide_border=false&layout=compact&card_width=495)
