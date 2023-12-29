@@ -34,11 +34,13 @@ As a dedicated full-stack web developer and IT specialist from Lithuania, I brin
 [![GitHub Streak](https://streak-stats.demolab.com?user=vstraigis&theme=bear&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 <br />
 ![vstraigis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vstraigis&theme=bear&show_icons=true&hide_border=false&layout=compact&card_width=495)
+<br />
+![vstraigis's Stats](https://github-readme-stats.vercel.app/api?username=vstraigis&theme=bear&show_icons=true&hide_border=false&count_private=true&card_width=495)
 
 <br />
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <br />
-<div align="center">
+<div align="left">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
