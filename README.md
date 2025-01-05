@@ -4,29 +4,16 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-As a dedicated full-stack web developer and IT specialist from Lithuania, I bring your ideas to life with custom-built web solutions. With a hands-on Bachelor's degree in Information Technologies from Vilnius University and practical experience at IBM , I have honed a diverse skill set that encompasses the full lifecycle of web application development. Pursuing continuous learning, I keep abreast of the latest advancements in the field to ensure the delivery of cutting-edge and responsive web experiences.
+As a dedicated full-stack web developer and IT specialist from Lithuania, I bring ideas to life with custom-built web solutions. With a hands-on Bachelor's degree in Information Technologies from Vilnius University and practical experience at IBM , I have honed a diverse skill set that encompasses the full lifecycle of web application development. Pursuing continuous learning, I stay up-to-date with the latest advancements in the field to ensure the delivery of cutting-edge and responsive web experiences.
 </p>
 
 - 🔭 Pursuing a Bachelor’s degree in **Information Technologies** at **Vilnius University**
-
-- 🌱 Expanding my expertise in **Angular** and **TypeScript**
 
 - 💼 Full-time **Fullstack Application Developer at IBM**
 
 - 📫 Reach out to me at: **val.straigis@gmail.com**
 
 <br />
-
-<h3 align="left">Professional Services:</h3>
-
-- ✨ Custom web design and development
-- 🔧 Full-stack application creation
-- 📱 Mobile-first development approach
-- 🚀 Ongoing website maintenance and support
-- 📊 SEO optimization and analytics implementation
-
-<br />
-
 
 <h3 align="left">My Github Stats:</h3>
 
