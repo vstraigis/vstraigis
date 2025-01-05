@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Valentinas Straigis</h1>
-<h3 align="center">Your Full-Stack Solution for Web Design & Development</h3>
+<h3 align="center">Full-Stack Development & Web Design </h3>
 <br />
 
 <h3 align="left">About Me:</h3>
