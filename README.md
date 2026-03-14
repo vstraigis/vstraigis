@@ -7,7 +7,7 @@
 As a dedicated full-stack web developer and IT specialist from Lithuania, I bring ideas to life with custom-built web solutions. With a hands-on Bachelor's degree in Information Technologies from Vilnius University and practical experience at IBM , I have honed a diverse skill set that encompasses the full lifecycle of web application development. Pursuing continuous learning, I stay up-to-date with the latest advancements in the field to ensure the delivery of cutting-edge and responsive web experiences.
 </p>
 
-- 🔭 Pursuing a Bachelor’s degree in **Information Technologies** at **Vilnius University**
+- 🔭 Bachelor’s degree in **Information Technologies** at **Vilnius University**
 
 - 💼 Full-time **Fullstack Application Developer at IBM**
 
